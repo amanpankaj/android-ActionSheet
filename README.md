@@ -1,4 +1,4 @@
-# ActionSheet
+# ActionSheet shortcut key to open devloper option
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ActionSheetForAndroid-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/784)
 [ ![Download](https://api.bintray.com/packages/baoyongzhang/maven/ActionSheet/images/download.svg) ](https://bintray.com/baoyongzhang/maven/ActionSheet/_latestVersion)
 
